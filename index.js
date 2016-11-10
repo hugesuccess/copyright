@@ -6,7 +6,7 @@ class Copyright extends Component {
     return(
       <div className="row copyright">
         <div className="col-xs-12 text-right">
-          <p>Copyright {new Date().getFullYear()}. All rights reserved.</p>
+          <p>Copyright &#x24B8; {new Date().getFullYear()}. All rights reserved.</p>
         </div>
       </div>
     )
